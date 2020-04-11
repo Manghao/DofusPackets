@@ -1,0 +1,23 @@
+{
+  "name": "dofuspackets",
+  "version": "0.0.1",
+  "description": "A documentation to describe packets for Dofus 1",
+  "scripts": {
+    "build": "vuepress build doc",
+    "dev": "vuepress dev doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manghao/DofusPackets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manghao/DofusPackets/issues"
+  },
+  "homepage": "https://github.com/Manghao/DofusPackets#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.4.0",
+    "vuepress": "^1.4.0"
+  }
+}
